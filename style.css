@@ -1,0 +1,11 @@
+html,body,*{
+	margin:0;
+	padding:0
+}
+
+h1{
+	color:black;
+	background-color:yellow;
+	padding:50px; /*mela irunthu kila varangattilum ulla durom*/
+	text-align:center;
+}
