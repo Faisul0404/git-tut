@@ -4,18 +4,8 @@ html,body,*{
 }
 
 h1{
-	color:black;
+	color:blue;
 	background-color:yellow;
 	padding:50px; /*mela irunthu kila varangattilum ulla durom*/
 	text-align:center;
-}
-#tech{
-	columns:5 100px;
-	list-style-type: none
-}
-.list{
-	display: inline-block;
-}
-.list-item > span{
-	font-size:90px;
 }
